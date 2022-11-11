@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <build>
-  		<finalName>Docker-Jenkins-Sample</finalName>
+  		<finalName>docker-jenkins-maven-sample</finalName>
   </build>
   
   <!-- compiler that requires for JRE for JDK 1.8 then JDK 17.0-->
